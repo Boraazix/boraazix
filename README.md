@@ -1,4 +1,4 @@
-### Hey guys, i'm Boraaaaaaazix 👋
+### Hey, i'm Boraaaaaaazix 👋
 
 - 😎 Russell Edward Timóteo Torres.
 - 🏫 2º year studying computing on IFNMG Montes Claros
