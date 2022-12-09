@@ -5,7 +5,6 @@
 - 🌱 Learning POO, Networks, Data Bases, and other things apart.
 - 🏠 Montes Claros, MG, Brazil.
 - ✡️ Christian
-- 😄 Pronouns: Combat helicopter/War machine
 
 <div>
   <a href="https://github.com/boraazix">
