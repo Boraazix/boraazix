@@ -1,9 +1,10 @@
 ### Hey guys, i'm Boraaaaaaazix 👋
 
-- 🔭 First of all, my name is Russell Edward Timóteo Torres.
-- 🏫 I'm studying computing on IFNMG Montes Claros
-- 🌱 I’m currently learning POO, Networks, Data Bases, and other things apart.
-- 🏠 I'm from Montes Claros, MG, Brazil.
+- 😎 Russell Edward Timóteo Torres.
+- 🏫 2º year studying computing on IFNMG Montes Claros
+- 🌱 Learning POO, Networks, Data Bases, and other things apart.
+- 🏠 Montes Claros, MG, Brazil.
+- ✡️ Christian
 - 😄 Pronouns: Combat helicopter/War machine
 
 <div>
@@ -31,6 +32,6 @@
   <a href = "mailto:russell.ed.123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/russell-edward-356379228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/boraazix/boraazix/blob/output/github-contribution-grid-snake.svg)
  
 </div>
