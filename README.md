@@ -4,7 +4,7 @@
 - 🏫 2º year studying computing on IFNMG Montes Claros
 - 🌱 Learning POO, Networks, Data Bases, and other things apart.
 - 🏠 Montes Claros, MG, Brazil.
-- ✡️ Christian
+- ✡️ Theistic/Christian
 
 <div>
   <a href="https://github.com/boraazix">
