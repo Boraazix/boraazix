@@ -5,12 +5,13 @@
 - 🌱 Learning POO, Networks, Data Bases, and other things apart.
 - 🏠 Montes Claros, MG, Brazil.
 - ✡️ Theistic/Christian
-
+<!---
 <div>
   <a href="https://github.com/boraazix">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=boraazix&hide_border=true&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraazix&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+-->
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
