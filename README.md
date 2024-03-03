@@ -1,8 +1,8 @@
 ### Hey, i'm Boraaaaaaazix 👋
 
 - 😎 Russell Edward Timóteo Torres.
-- 🏫 3º year studying computing on IFNMG Montes Claros
-- 🌱 Learning WEB programming, Networking lab, Entrepreneurship, and other things apart.
+- 🏫 Graduated in IT at IFNMG Montes Claros
+- 🌱 Honing assembly and maintenance of computers.
 - 🏠 Montes Claros, MG, Brazil.
 - ✡️ Theistic/Christian
 <div>
